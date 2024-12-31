@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Sales</string>
+    <string name="app_title">Car Sales</string>
+    <string name="add_new_car">Add New Car</string>
+    <string name="add_car_title">Add New Car</string>
+    <string name="no_cars_available">No cars available</string>
+    <string name="car_make">Make</string>
+    <string name="car_model">Model</string>
+    <string name="car_year">Year</string>
+    <string name="car_price">Price</string>
+    <string name="car_description">Description</string>
+    <string name="car_image_url">Image URL</string>
+    <string name="save_car">Save Car</string>
+    <string name="error_invalid_input">Please fill all required fields</string>
+    <string name="error_invalid_number">Invalid number format</string>
+    <string name="success_car_added">Car added successfully</string>
+</resources>
